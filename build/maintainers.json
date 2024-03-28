@@ -2051,9 +2051,7 @@
   "/github/contributors/:user/:repo/:order?/:anon?": [
     "zoenglinghou"
   ],
-  "/github/file/:user/:repo/:branch/:filepath{.+}": [
-    "zengxs"
-  ],
+  "/github/file/:user/:repo/:branch/:filepath{.+}": [],
   "/github/user/followers/:user": [
     "HenryQW"
   ],
@@ -3149,9 +3147,6 @@
   "/jump/discount/:platform/:filter?/:countries?": [
     "zytomorrow"
   ],
-  "/junhe/legal-updates": [
-    "nczitzk"
-  ],
   "/kamen-rider-official/news/:category?": [
     "nczitzk"
   ],
@@ -3899,9 +3894,6 @@
   "/npmpackage/:name{(@[a-z0-9-~][a-z0-9-._~]*/)?[a-z0-9-~][a-z0-9-._~]*}": [],
   "/npr/:endpoint?": [
     "bennyyip"
-  ],
-  "/ntdm/video/:id": [
-    "alexhere"
   ],
   "/ntdtv/:language/:id": [
     "Fatpandac"
@@ -5544,9 +5536,6 @@
     "DIYgod",
     "yindaheng98",
     "Rongronggg9"
-  ],
-  "/twreporter/category/:category": [
-    "emdoe"
   ],
   "/twreporter/newest": [
     "emdoe"
